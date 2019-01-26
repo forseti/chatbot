@@ -52,7 +52,7 @@ import java.util.Random;
 
 /**
  *
- * @author tushar
+ * @author rahul
  */
 public class Chatbot extends Application {
     private JTextField textEnter;
